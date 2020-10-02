@@ -229,9 +229,10 @@ General styles
 	border-bottom: 1px solid white;
 }
 
-.article{
+.article-facts{
   margin: auto;
   text-align: center;
+  padding: 30px;
 }
 
 footer{
